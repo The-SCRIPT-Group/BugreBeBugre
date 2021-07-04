@@ -1,1 +1,1 @@
-# BugreBeBugre
+ [BugreBeBugre](https://bugre.wiki)
